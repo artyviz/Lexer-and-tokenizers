@@ -1,0 +1,2 @@
+:set modifiable
+:set readonly!

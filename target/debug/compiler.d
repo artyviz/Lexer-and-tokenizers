@@ -1,0 +1,1 @@
+/mnt/c/Users/Farhan/Desktop/compiler/lib/compiler/target/debug/compiler: /mnt/c/Users/Farhan/Desktop/compiler/lib/compiler/src/ast/lexer.rs /mnt/c/Users/Farhan/Desktop/compiler/lib/compiler/src/ast/mod.rs /mnt/c/Users/Farhan/Desktop/compiler/lib/compiler/src/ast/span.rs /mnt/c/Users/Farhan/Desktop/compiler/lib/compiler/src/main.rs
